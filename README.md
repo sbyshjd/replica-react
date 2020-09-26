@@ -1,0 +1,1 @@
+This is a repo to build react b myself and to achieve the main funtions that react doing
